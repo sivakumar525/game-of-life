@@ -116,6 +116,7 @@ public class GameController {
 	// Good practice to avoid directly accessing attributes, use getters and setters instead
 	// modified by siva from github
         // made for conflict
+	//conflict from github
     private Random getRandomGenerator() {
         return randomGenerator;
     }
