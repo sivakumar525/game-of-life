@@ -19,6 +19,7 @@ public class HomePageController {
     }
 
 	// Clicking the "home" text loads the main page
+	//conflict from git hb
     @RequestMapping("/home")
     public ModelAndView home() {
         return new ModelAndView("home");
